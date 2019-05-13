@@ -1,4 +1,4 @@
-C|work,very_low work,very_low pause,none pause,high pause,high pause,high pause,high pause,none work,very_low pause,none pause,high pause,high pause,high pause,high
-C|pause,none work,low work,very_low work,very_low pause,none work,very_low work,very_low pause,none work,very_low work,very_low pause,none pause,high pause,high pause,high pause,high
-C|pause,none work,very_low work,very_low pause,none work,very_low work,very_low pause,none work,very_low pause,none work,very_low pause,none pause,high pause,high pause,high pause,high
-C|work,very_low work,very_low pause,none work,very_low pause,high pause,high pause,high pause,high pause,none work,very_low pause,none pause,high pause,high pause,high pause,high
+C|pause,none work,very_low work,very_low work,very_low pause,none work,very_low work,very_low pause,none work,very_low work,very_low pause,none stream,high stream,high stream,high stream,high
+C|pause,none work,very_low work,very_low work,very_low pause,none work,very_low work,very_low pause,none work,very_low pause,none work,very_low pause,none stream,high stream,high stream,high
+C|work,very_low work,very_low pause,none stream,high stream,high stream,high stream,high pause,none work,very_low pause,none stream,high stream,high stream,high stream,high
+C|pause,none work,very_low work,very_low work,very_low pause,none work,very_low work,very_low pause,none work,very_low work,very_low pause,none stream,high stream,high stream,high stream,high
